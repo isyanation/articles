@@ -9,15 +9,18 @@ header-img: "/img/tanah-airku-head.jpg"
 
 <p> Halo semua! Ini adalah postingan pertama digrup ini dan selamat hari ulang tahun untuk INDONESIA!. Dan kalian pasti tahu kan ? Kalau Isyan lagi ada lagu single terbaru ? Pastinya dong! :D. Isyana mengeluarkan lagu single terbaru yang berjudul "Tanah Airku". Detail nya bisa di lihat di bawah : <br/><br/>
 
-Music Arr. : Isyana Sarasvati
-Composer : Ibu Sud
-Orchestra : Alvin Witarsa
-Vocal & Performer : Isyana Sarasvati
+<ul class="list">
+<li>Music Arr. : Isyana Sarasvati</li><br/>
+<li>Composer : Ibu Sud</li><br/>
+<li>Orchestra : Alvin Witarsa</li><br/>
+<li>Vocal & Performer : Isyana Sarasvati</li>
+</ul>
 <br/><br/><center>
 <strong>Music Video (MV) lagu Tanah Airku - Isyana Sarasvati :</strong><br/><br/>
 <iframe width="854" height="480" src="https://www.youtube.com/embed/4DI1l39ipBU" frameborder="0" allowfullscreen></iframe><br/>
 </center><br/>
-Nah, itulah lagu single terbaru dari Isyana Sarasvati. Update terbaru dari Isyana Sarasvati akan kami post disini (per minggu). <br/>
+Nah, itulah lagu single terbaru dari Isyana Sarasvati. Update terbaru dari Isyana Sarasvati akan kami post disini (per minggu). <br/><center>
 Sekian, Terima kasih!<br/>
 SALAM ISYANATION!! :D
+</center>
 </p>
