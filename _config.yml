@@ -4,7 +4,7 @@ header-img: img/home-bg.jpg
 email: nfiarts@gmail.com
 copyright_name: ISYANATION
 description: "Semua aktifitas, update, jadwal manggung tebaru Isyana Sarasvati akan di posting disini"
-baseurl: "/article"
+baseurl: "/blog/article"
 url: "https://blog.isyanation.tk"
 twitter_username: isyanation
 github_username:  isyanation
