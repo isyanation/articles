@@ -2,7 +2,7 @@
 layout:     post
 title:      "Isyana Bakal Perform di HUT SCTV ke 26!"
 subtitle:   "Nantikan cantiknya Isyana Sarasvati saat perform di HUT SCTV yang ke 26"
-date:       2016-08-22 22:06:84
+date:       2016-08-22 22:06:14
 author:     "Nur Faqih Imam"
 header-img: "img/isyana-sctv-26-head.jpg"
 ---
