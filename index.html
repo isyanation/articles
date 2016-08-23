@@ -16,7 +16,7 @@ description: "Week updates of Isyana Sarasvati"
     </a>
     <script id="dsq-count-scr" src="//isyanationblog.disqus.com/count.js" async="async"></script>
     <p class="post-meta">Diposkan oleh {% if post.author %}<a href="https://www.isyanation.tk/admin/nurfaqihimam">{{ post.author }}</a>{% else %}<a href="https://www.isyanation.tk/articles">{{ site.title }}</a>{% endif %} pada {{ post.date | date: "%B %-d, %Y" }}. <a href="{{ post.url | prepend: site.baseurl }}#disqus_thread"></a></p><br/>
-    <a href="{{ post.url | prepend: site.baseurl }}">Baca selengkapnya</a>
+    <span class="readmore"><a href="{{ post.url | prepend: site.baseurl }}">Baca selengkapnya</a></span>
 </div>
 <hr>
 {% endfor %}
