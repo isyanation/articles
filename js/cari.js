@@ -1,5 +1,5 @@
 function getQueryVariable(variable) {
-  var query = window.location.search.substring(1);
+  var query = window.location.cari.substring(1);
   var vars = query.split('&');
 
   for (var i = 0; i < vars.length; i++) {
@@ -46,6 +46,7 @@ function displaySearchResults(results, store) {
       var item = store[results[i].ref];
       appendString += '<li><a href="' + item.url + '"><h3>' + item.title + '</h3></a>';
       appendString += '<p>' + item.content.substring(0, 150) + '...</p></li>';
+      appendString += '<a href="' + item.url +#disqus_thread'"></a>;
     }
 
     searchResults.innerHTML = appendString;
