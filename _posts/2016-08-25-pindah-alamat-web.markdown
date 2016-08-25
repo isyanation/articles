@@ -3,7 +3,7 @@ layout: post
 title: "Pindah Link/URL Blog"
 description: "Link blog ini tidak akan di pakai mulai tanggal 26 Agustus 2016"
 header-img: "img/isyana-sctv-26-head.jpg"
-date:       2016-08-25 22:06:84
+date:       2016-08-25 07:06:84
 ---
 
 <div id="body" align="center">
